@@ -1,0 +1,2 @@
+yargi-mcp>=0.2.0
+uvicorn[standard]>=0.30.0
