@@ -1,0 +1,8 @@
+.venv/
+.deps/
+.repo/
+.git
+yargi-mcp/
+yargi-cli/
+__pycache__/
+*.pyc
